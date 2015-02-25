@@ -31,13 +31,13 @@
                   list: '/movies'
                 , resources: {
                     images: {
-                        list: 'images'
+                        list: '/images'
                     }
                     , posters: {
-                        list: 'posters'
+                        list: '/posters'
                     }
                     , trailers: {
-                        list: 'trailers'
+                        list: '/trailers'
                     }
                 }
             }
@@ -48,9 +48,15 @@
                   list: '/theatres'
                 , resources: {
                     shows: {
-                        list: 'shows'
+                        list: '/shows'
                     }
                 }
+            }
+            , genres: {
+                list: '/genres'
+            }
+            , reviews: {
+                list: '/reviews'
             }
         }
     }
