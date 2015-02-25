@@ -1,7 +1,7 @@
 {
       "name"                        : "cinergy-content-api"
     , "description"                 : "Unofficial Cinergy Content API SDK"
-    , "version"                     : "0.2.2"
+    , "version"                     : "0.2.3"
     , "homepage"                    : "https://github.com/eventEmitter/cinergy-content-api"
     , "author"                      : "Michael van der Weg <michael@joinbox.com> (http://joinbox.com/)" 
     , "licence"                     : "mit"
