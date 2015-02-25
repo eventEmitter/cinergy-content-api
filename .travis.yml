@@ -4,8 +4,8 @@ node_js:
     - "0.10"
     - "0.11"
     - "0.12"
-    - "iojs"
+    - iojs
 
 env: 
     global: 
-        - secure: "\x81\x15WÅÜ5\x94âHs\x15:Ç\x127ßÅ|\x1Dòãs\x8Bd4=C\x17ävímµ&\x04ÊJ\x96[ÌöZæ\x01\x8Eb±AHÿjc\x9FKR)\x82*b·k1aæñ·z6e_\_ñ\x03\x80\x9BüÔ\x8CCËúo-è\x92Åý¿õ«\x89¿\x89ï\x9CÇR\x98\x04ñ\x97Õ÷{\_\eèB:+²Dò³ôb.±½çM7\x8EÚa\Nôi"
+        - secure: ecK5XcOVw43DlSTDtQgIdsK3w4g8w6/CoMKlEUxlwqQuw5gEwqtnw7DDs8OAIsKyUsKrWh3CpsKaw6nDvmLCjMKbFQVgLcKxDXnDtsKGwpV6woYNCWdAw5JibsOOIwHDjcOmNmc3WMKgwpElwohIw7E1w5ABwrVuw5HDnRMxw7TDjnPDmDIcw6JNN8KgwrvCqsKHwrFFLQfCjMOSCsO/UwZlAUsIw64jw5jDuMONY1UbWU/Ck8OTNF8TCA==
