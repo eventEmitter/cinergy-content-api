@@ -4,7 +4,8 @@ node_js:
     - "0.10"
     - "0.11"
     - "0.12"
+    - iojs
 
 env: 
     global: 
-        - secure: ecK5XcOVw43DlSTDtQgIdsK3w4g8w6/CoMKlEUxlwqQuw5gEwqtnw7DDs8OAIsKyUsKrWh3CpsKaw6nDvmLCjMKbFQVgLcKxDXnDtsKGwpV6woYNCWdAw5JibsOOIwHDjcOmNmc3WMKgwpElwohIw7E1w5ABwrVuw5HDnRMxw7TDjnPDmDIcw6JNN8KgwrvCqsKHwrFFLQfCjMOSCsO/UwZlAUsIw64jw5jDuMONY1UbWU/Ck8OTNF8TCA==
+        - secure: "ecK5XcOVw43DlSTDtQgIdsK3w4g8w6/CoMKlEUxlwqQuw5gEwqtnw7DDs8OAIsKyUsKrWh3CpsKaw6nDvmLCjMKbFQVgLcKxDXnDtsKGwpV6woYNCWdAw5JibsOOIwHDjcOmNmc3WMKgwpElwohIw7E1w5ABwrVuw5HDnRMxw7TDjnPDmDIcw6JNN8KgwrvCqsKHwrFFLQfCjMOSCsO/UwZlAUsIw64jw5jDuMONY1UbWU/Ck8OTNF8TCA=="

@@ -16,7 +16,7 @@
 		it('should not crash when instantiated', function() {
 			api = new CinergyAPI(travis.get('API_KEY'));
 		});
-
+		
 
 
 		it('should be able to list movies', function(done) {
