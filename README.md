@@ -49,7 +49,7 @@ get the teathre with the id 852
         
     });
 
-get images for  the movie with the id 78765 movie
+get images for the movie with the id 78765
 
     apiClient.movies(78765).images().list(function(err, images, pager) {
         
