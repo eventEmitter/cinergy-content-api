@@ -1,7 +1,7 @@
 {
       "name"                        : "cinergy-content-api"
     , "description"                 : "Unofficial Cinergy Content API SDK"
-    , "version"                     : "0.2.5"
+    , "version"                     : "0.2.6"
     , "homepage"                    : "https://github.com/eventEmitter/cinergy-content-api"
     , "author"                      : "Michael van der Weg <michael@joinbox.com> (http://joinbox.com/)" 
     , "licence"                     : "mit"
@@ -20,7 +20,7 @@
         , "ee-event-emitter"        : "0.1.x"
         , "ee-types"                : "0.1.x"
         , "ee-log"                  : "0.3.x"
-        , "restful-api-client"      : "0.2.x"
+        , "restful-api-client"      : "0.3.x"
     }
     , "devDependencies": {
           "mocha"                   : "1.17.x"
