@@ -1,5 +1,7 @@
 # cinergy-content-api
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/cinergy-content-api.svg)](https://greenkeeper.io/)
+
 Unofficial Cinergy Content API SDK
 
 The supported endpoints are:
